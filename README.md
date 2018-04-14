@@ -1,2 +1,2 @@
 # SlothProject
-## Much good sloths
+## Many brilliant sloths
