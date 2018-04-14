@@ -1,2 +1,3 @@
 # SlothProject
-## Many brilliant sloths
+## Many brilliant sloths and their friends
+
